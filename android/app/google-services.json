@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163262491646",
+    "project_id": "fastimmo-e3421",
+    "storage_bucket": "fastimmo-e3421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163262491646:android:05f59e978d4eaaa557eeaf",
+        "android_client_info": {
+          "package_name": "com.example.fast_immo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2M8-0XAponMijt7yTdti4GiKKvaFbRug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
